@@ -1,7 +1,7 @@
 Image Book
 is a Gallery with minimal functionality has a Default image set, but the user can change it to a different folder form the menu bar, open folder.
 it uses pyside6 for the GUI and PIL for image process.
-it is separated into 3 files first is main.py, zoom_on_image.py and image_select.py.
+it is separated into 3 files main.py, zoom_on_image.py and image_select.py.
 
 -main.py
 this is where the application is initialized and where you can run it.
